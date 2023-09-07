@@ -1,2 +1,6 @@
 feature3
+<<<<<<< HEAD
 newfeature  
+=======
+textline
+>>>>>>> ad8196d7f93f0752c63ef0a57c0e8839ae8a9b11
